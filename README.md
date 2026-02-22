@@ -16,13 +16,13 @@ This project analyzes E-commerce sales data using SQL and Power BI to identify r
 ## 📷 Dashboard Preview
 
 ### Page 1
-![Page 1](dashboard_page1.png)
+![Page 1](Dashboard_page1.png)
 
 ### Page 2
-![Page 2](dashboard_page2.png)
+![Page 2](Dashboard_page2.png)
 
 ### Page 3
-![Page 3](dashboard_page3.png)
+![Page 3](Dashboard_page3.png)
 
 ---
 
