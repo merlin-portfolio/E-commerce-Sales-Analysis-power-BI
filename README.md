@@ -1,2 +1,29 @@
-# E-commerce-Sales-Analysis-power-BI
-E-commerce Sales Analysis using SQL and Power BI with interactive dashboard and business insights.
+# E-commerce Sales Analysis Dashboard
+
+## 📊 Project Overview
+This project analyzes E-commerce sales data using SQL and Power BI to identify revenue trends, profit performance, and customer behavior.
+
+## 🛠 Tools Used
+- SQL
+- Power BI
+
+## 📈 Key Insights
+- Technology category generated highest sales.
+- Europe region contributed major revenue.
+- Higher discounts reduced profit margins.
+- Consumer segment had the most orders.
+
+## 📷 Dashboard Preview
+
+### Page 1
+![Page 1](dashboard_page1.png)
+
+### Page 2
+![Page 2](dashboard_page2.png)
+
+### Page 3
+![Page 3](dashboard_page3.png)
+
+---
+
+⭐ This project demonstrates practical skills in data analysis, SQL querying, and dashboard creation.
